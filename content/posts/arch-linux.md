@@ -6,7 +6,7 @@ title = "Arch Linux"
 +++
 # **Arch Linux**
 
-**Arch Linux** (dikenal juga dengan **ArchLinux** atau **Arch**) adalah sebuah distribusi Linux untuk komputer x86_64 (64 bit) yang didesain untuk menjadi ringan dan sederhana. Cara pengucapan Arch Linux mirip dengan pelafalan **_arch_**_er_ atau _p**arch**ment_).
+**Arch Linux** (dikenal juga dengan **ArchLinux** atau **Arch**) adalah sebuah distribusi Linux untuk komputer x86_64 (64 bit) yang didesain untuk menjadi ringan dan sederhana. Cara pengucapan Arch Linux mirip dengan pelafalan **_arch_**_er_ atau _p**arch**ment_.
 
 ![](../../uploads/archlinux-official-fullcolour.png)
 
