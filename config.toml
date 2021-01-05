@@ -6,7 +6,7 @@ theme = "smol"
 # Parameters
 [params]
     subtitle = "Indonesia"
-    dateFmt = "02.01.2006 04:15"
+    dateFmt = "Monday, Jan 2, 2006 04:15"
 
 # Taxonomies
 [taxonomies]
