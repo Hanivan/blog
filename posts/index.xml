@@ -6,53 +6,15 @@
     <description>Recent content in Posts on Nip&#39;s Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 09:28:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 09:46:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Tanggal</title>
-      <link>https://hanivan.github.io/blog/posts/test-tanggal/</link>
-      <pubDate>Tue, 05 Jan 2021 09:28:00 +0000</pubDate>
+      <title>Arch Linux</title>
+      <link>https://hanivan.github.io/blog/posts/arch-linux/</link>
+      <pubDate>Tue, 05 Jan 2021 09:46:00 +0000</pubDate>
       
-      <guid>https://hanivan.github.io/blog/posts/test-tanggal/</guid>
-      <description>Testing Waktu</description>
-    </item>
-    
-    <item>
-      <title>Test Highlighter From Forestry.io</title>
-      <link>https://hanivan.github.io/blog/posts/test-highlighter-from-forestry.io/</link>
-      <pubDate>Tue, 05 Jan 2021 09:04:00 +0000</pubDate>
-      
-      <guid>https://hanivan.github.io/blog/posts/test-highlighter-from-forestry.io/</guid>
-      <description>Ini adalah syntax dari bahasa pemrograman C++ #include &amp;lt;iostream&amp;gt;using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34; &amp;lt;&amp;lt; endl; return 0; }  </description>
-    </item>
-    
-    <item>
-      <title>Second Posts</title>
-      <link>https://hanivan.github.io/blog/posts/second-posts/</link>
-      <pubDate>Tue, 05 Jan 2021 14:09:29 +0700</pubDate>
-      
-      <guid>https://hanivan.github.io/blog/posts/second-posts/</guid>
-      <description>Ini adalah postingan kedua untuk menguji sistem tags</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://hanivan.github.io/blog/posts/hello-world/</link>
-      <pubDate>Tue, 05 Jan 2021 13:52:27 +0700</pubDate>
-      
-      <guid>https://hanivan.github.io/blog/posts/hello-world/</guid>
-      <description>Ini adalah postingan pertama.</description>
-    </item>
-    
-    <item>
-      <title>Update From Forestry.io</title>
-      <link>https://hanivan.github.io/blog/posts/update-from-forestry.io/</link>
-      <pubDate>Mon, 04 Jan 2021 17:46:00 +0000</pubDate>
-      
-      <guid>https://hanivan.github.io/blog/posts/update-from-forestry.io/</guid>
-      <description>Update From Forestry.io
-Update From Forestry.io
-Update From Forestry.io  Update From Forestry.io
- Update From Forestry.io    RHEL  </description>
+      <guid>https://hanivan.github.io/blog/posts/arch-linux/</guid>
+      <description>Arch Linux Arch Linux (dikenal juga dengan ArchLinux atau Arch) adalah sebuah distribusi Linux untuk komputer x86_64 (64 bit) yang didesain untuk menjadi ringan dan sederhana.[3] Cara pengucapan Arch Linux adalah [ɑːrtʃ] atau [aːtʃ] (seperti pada kata archer atau parchment).[4]
+   Pendekatan desain pengembang distro ini berfokus pada kesederhanaan, kebenaran program dan minimalisme.[5] &amp;ldquo;Kesederhanaan&amp;rdquo; didefinisikan sebagai &amp;ldquo;tak perlu tambahan, modifikasi, atau komplikasi&amp;rdquo; sesuai sudut pandang pengembangnya, bukan sudut pandang pengguna.</description>
     </item>
     
   </channel>
