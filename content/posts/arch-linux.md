@@ -16,7 +16,7 @@ Archlinux adalah sebuah Distribusi Linux berbasis _binary_, yang artinya, paket-
 
 ### Sejarah
 
-Terinspirasi dari CRUX, Judd Vinet memulai proyek Arch Linux pada bulan Maret 2002. Vinet memimpin proyek ini hingga 1 Oktober [2007](https://id.wikipedia.org/wiki/2007 "2007"). Ia kemudian lengser karena kurangnya waktu, dan menyerahkan proyek dalam pengawasan Aaron Griffin.
+Terinspirasi dari CRUX, Judd Vinet memulai proyek Arch Linux pada bulan Maret 2002. Vinet memimpin proyek ini hingga 1 Oktober 2007. Ia kemudian lengser karena kurangnya waktu, dan menyerahkan proyek dalam pengawasan Aaron Griffin.
 
 ### Sumber
 
