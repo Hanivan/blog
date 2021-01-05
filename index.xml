@@ -13,7 +13,7 @@
       <pubDate>Tue, 05 Jan 2021 09:04:00 +0000</pubDate>
       
       <guid>https://hanivan.github.io/blog/posts/test-highlighter-from-forestry.io/</guid>
-      <description>Ini adalah syntax dari bahasa pemrograman C++ #include &amp;lt;iostream&amp;gt;using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34; &amp;lt;&amp;lt; endl; }  </description>
+      <description>Ini adalah syntax dari bahasa pemrograman C++ #include &amp;lt;iostream&amp;gt;using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34; &amp;lt;&amp;lt; endl; return 0; }  </description>
     </item>
     
     <item>
