@@ -1,0 +1,43 @@
+baseURL = "https://hanivan.github.io/blog"
+languageCode = "en-us"
+title = "Nip's Journey"
+theme = "smol"
+
+# Parameters
+[params]
+    subtitle = "Indonesia"
+    dateFmt = "02.01.2006 15:04"
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = ""
+        weight = 1
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "tags"
+        weight = 2
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/Hanivan"
+        weight = 1
+
+    [[menu.footer]]
+        name = "Youtube"
+        url = "https://youtube.com/lintasanvideo"
+        weight = 2
+
+    [[menu.footer]]
+        name = "Instagram"
+        url = "https://instagram.com/hanivanrizky"
+        weight = 3
