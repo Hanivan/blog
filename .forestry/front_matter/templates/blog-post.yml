@@ -21,4 +21,5 @@ fields:
   default: []
   label: Tags
 pages:
+- content/posts/test-highlighter-from-forestry.io.md
 - content/posts/update-from-forestry.io.md
