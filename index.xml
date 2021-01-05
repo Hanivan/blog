@@ -6,7 +6,16 @@
     <description>Recent content on Nip&#39;s Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jan 2021 09:04:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 09:28:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Tanggal</title>
+      <link>https://hanivan.github.io/blog/posts/test-tanggal/</link>
+      <pubDate>Tue, 05 Jan 2021 09:28:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/posts/test-tanggal/</guid>
+      <description>Testing Waktu</description>
+    </item>
+    
     <item>
       <title>Test Highlighter From Forestry.io</title>
       <link>https://hanivan.github.io/blog/posts/test-highlighter-from-forestry.io/</link>
