@@ -11,6 +11,22 @@ theme = "smol"
 # Taxonomies
 [taxonomies]
   tag = "tags"
+  
+# Highlighter
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    pygmentsUseClasses=true
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 2
 
 # Header
 [menu]
