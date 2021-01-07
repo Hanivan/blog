@@ -20,7 +20,7 @@ fields:
   type: tag_list
   default: []
   label: Tags
-- name: description
+- name: summary
   type: text
   config:
     required: false
