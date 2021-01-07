@@ -34,4 +34,5 @@ fields:
   description: Ditampilkan untuk tag &lt;meta&gt; dan SEO
 pages:
 - content/posts/arch-linux.md
+- content/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux.md
 - content/posts/membuat-file-sharing-dengan-apache2.md
