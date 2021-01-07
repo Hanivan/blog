@@ -6,7 +6,13 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<style type=text/css>body{font-family:monospace;}</style>
 	<title>{{ .Title }}</title>
-	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+        {{ if .Description }}
+                <meta name="description" content="{{ .Description }}">
+        {{ else if eq .Kind "section" }}
+                <meta name="description" content="{{ .Summary }}">
+        {{ else }}
+                <meta name="description" content="{{ .Site.Params.Description }}">
+        {{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 	{{ range .Site.Params.customCSS -}}

@@ -2,9 +2,12 @@ baseURL = "https://hanivan.github.io/blog"
 languageCode = "en-us"
 title = "Nip's Journey"
 theme = "smol"
+summaryLength = 25
+paginate = 25
 
 # Parameters
 [params]
+    description = "Menulis semaunya"
     subtitle = "Indonesia"
     dateFmt = "Monday, 2006-01-02"
 
