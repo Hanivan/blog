@@ -32,3 +32,4 @@ fields:
   label: Summary
 pages:
 - content/posts/arch-linux.md
+- content/posts/membuat-file-sharing-dengan-apache2.md
