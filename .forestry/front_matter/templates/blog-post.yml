@@ -20,11 +20,15 @@ fields:
   type: tag_list
   default: []
   label: Tags
-- name: summary
+- name: description
   type: text
   config:
     required: false
   label: Deskripsi
+- name: summary
+  type: text
+  config:
+    required: false
+  label: Summary
 pages:
 - content/posts/arch-linux.md
-- content/posts/membuat-file-sharing-dengan-apache2.md
