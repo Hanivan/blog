@@ -25,11 +25,13 @@ fields:
   config:
     required: false
   label: Summary
+  description: Potongan dari konten yang akan menarik pembaca
 - name: description
   type: text
   config:
     required: false
   label: Deskripsi
+  description: Ditampilkan untuk tag &lt;meta&gt; dan SEO
 pages:
 - content/posts/arch-linux.md
 - content/posts/membuat-file-sharing-dengan-apache2.md
