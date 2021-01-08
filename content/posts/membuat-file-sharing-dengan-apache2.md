@@ -26,25 +26,25 @@ Kelompok kerja WebDAV menyelesaikan pekerjaannya pada Maret 2007, setelah Intern
 
 WebDAV memperluas kumpulan kata kerja dan header HTTP standar yang diizinkan untuk metode permintaan. Kata kerja yang ditambahkan meliputi:
 
-**COPY**
+**COPY**: 
 Menyalin sumber daya dari satu URI ke URI lainnya
 
-**LOCK**
+**LOCK**: 
 Mengunci sumber daya. WebDAV mendukung kunci bersama dan eksklusif
 
-**MKCOL**
+**MKCOL**: 
 Membuat koleksi (alias direktori)
 
-**MOVE**
+**MOVE**: 
 Memindahkan sumber daya dari satu URI ke URI lainnya
 
-**PROPFIND**
+**PROPFIND**: 
 Mengambil properti, disimpan sebagai XML, dari sumber daya web. Ini juga kelebihan beban untuk memungkinkan seseorang mengambil struktur koleksi (juga dikenal sebagai hierarki direktori) dari sistem jarak jauh
 
-**PROPPATCH**
+**PROPPATCH**: 
 Mengubah dan menghapus beberapa properti pada sumber daya dalam satu tindakan atom
 
-**UNLOCK**
+**UNLOCK**: 
 Menghapus kunci dari sumber daya
 
 ## Web Server Support
