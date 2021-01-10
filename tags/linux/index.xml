@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Cara Membuat File Sharing Server Dengan Apache di Linux Ubuntu (WebDAV)</title>
+      <link>https://hanivan.github.io/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/</link>
+      <pubDate>Wed, 06 Jan 2021 17:00:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/</guid>
+      <description>Pada kesempatan kali ini saya akan mempraktekkannya di Linux Ubuntu dan menggunakan module WebDAV dari Apache2. Tapi sebelum itu, usahakan sedia yang namanya internet, kopi, gorengan. Biar kalau error bisa browsing cara solving error-nya sambil sruput kopi.</description>
+    </item>
+    
+    <item>
       <title>Arch Linux</title>
       <link>https://hanivan.github.io/blog/posts/arch-linux/</link>
       <pubDate>Tue, 05 Jan 2021 09:46:00 +0000</pubDate>

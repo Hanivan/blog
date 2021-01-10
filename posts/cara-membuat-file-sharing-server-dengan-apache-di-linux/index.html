@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<style type=text/css>body{font-family:monospace;}</style>
+	<title>Cara Membuat File Sharing Server Dengan Apache di Linux Ubuntu (WebDAV)</title>
+        
+                <meta name="description" content="Pada kesempatan kali ini saya akan mempraktekkannya di Linux Ubuntu dan menggunakan module WebDAV dari Apache2. Tapi sebelum itu, usahakan sedia yang namanya internet, kopi, gorengan. Biar kalau error bisa browsing cara solving error-nya sambil sruput kopi.">
+        
+	
+	<link rel="stylesheet" href="/blog/css/style.css">
+	
+	
+</head>
+<body>
+	<header>
+	===================<br>
+	== <a href="https://hanivan.github.io/blog">Nip&#39;s Journey</a> ==<br>
+	===================
+	<div style="float: right;">Indonesia</div><br>
+	<p>
+	<nav>
+			
+			
+			<a href="/blog"><b>Posts</b></a>.
+			
+			<a href="/blog/tags"><b>Tags</b></a>.
+			
+	</nav>
+	</p>
+	
+</header>
+
+	
+	<main>
+		<article>
+			<h1>Cara Membuat File Sharing Server Dengan Apache di Linux Ubuntu (WebDAV)</h1>
+			<b><time>Wednesday, 2021-01-06</time></b>
+		       
+		           <a href="/blog/tags/linux">Linux</a>
+        	       
+		           <a href="/blog/tags/it">IT</a>
+        	       
+		           <a href="/blog/tags/server">Server</a>
+        	       
+
+			<div>
+				<p>Pada kesempatan kali ini saya akan mempraktekkannya di Linux Ubuntu dan menggunakan module <a href="https://hanivan.github.io/blog/posts/membuat-file-sharing-dengan-apache2/" title="WebDAV">WebDAV</a> dari Apache2. Tapi sebelum itu, usahakan sedia yang namanya internet, kopi, gorengan. Biar kalau error bisa browsing cara solving error-nya sambil sruput kopi.</p>
+<p>Pada settingan default, Apache tidak mengaktifkan yang namanya WebDAV. Jadi kita harus mengaktifkannya secara manual. Cara gampang saja. Ikuti perintah-perintah dibawah ini.</p>
+<h3 id="enabling-module">Enabling Module</h3>
+<pre><code>sudo a2enmod dav
+sudo a2enmod dav_fs
+sudo systemctl restart apache2
+</code></pre>
+<p>Step selanjutnya, kalian harus membuat folder-nya terlebih dahulu, kalian bebas ingin menempatkan dimana saja. Disini saya akan menempatkannya pada folder /var/www/webdav.</p>
+<pre><code>sudo mkdir /var/www/webdav
+sudo chown -R www-data: /var/www/webdav
+</code></pre>
+<p>Selanjutnya, kita buat file konfigurasi virtual host baru untuk WebDAV. Pada kali ini, saya akan menamainya webdav.conf.</p>
+<pre><code>sudo nano etc/apache2/sites-available/webdav.conf
+</code></pre>
+<p>Lalu masukkan settingan ini</p>
+<pre><code>NameVirtualHost *
+&lt;VirtualHost *:80&gt;
+# ServerAdmin webmaster@domain # Ubah ke email jika diperlukan
+
+DocumentRoot /var/www/webdav/
+&lt;Directory /var/www/webdav/&gt;
+Options Indexes MultiViews
+AllowOverride None
+Order allow,deny
+allow from all
+&lt;/Directory&gt;
+
+&lt;/VirtualHost&gt;
+Alias /webdav /var/www/webdav
+&lt;Location /webdav&gt;
+DAV On
+AuthType Basic
+AuthName &quot;webdav&quot;
+AuthUserFile /var/www/webdav/passwd.dav
+Require valid-user
+&lt;/Location&gt;
+</code></pre>
+<p>Lalu kita aktifkan konfigurasi-nya dengan mengetikkan:</p>
+<pre><code>sudo a2ensite webdav.conf
+</code></pre>
+<p>Sebelum me-restart apache2, kalian harus menambahkan user dan password linux untuk service WebDAV. <em>Disarankan jangan user root</em></p>
+<pre><code>sudo htpasswd -c /var/www/webdav/passwd.dav $USER
+</code></pre>
+<p>Lalu kita ubah file permission-nya agar user root dan www-data saja yang dapat mengakses-nya, lalu restart apache2.</p>
+<pre><code>sudo chown -R root:www-data /var/www/webdav/passwd.dav
+sudo chmod 640 /var/www/webdav/webdav.dav
+sudo systemctl restart apache2
+</code></pre>
+<p>Untuk mengecek apakah service WebDAV berjalan lancar, kunjungi alamat ini di web browser kalian:</p>
+<p><em>http://localhost/webdav</em></p>
+<p>Jika muncul pop-up username dan password, maka semua sudah berjalan dengan lancar.</p>
+<p><strong>Sumber</strong></p>
+<p><a href="https://www.techrepublic.com/article/how-to-enable-webdav-on-your-ubuntu-server/" title="TechRepublic: How to enable WebDAV on your Ubuntu server">TechRepublic: How to enable WebDAV on your Ubuntu server</a></p>
+
+			</div>
+		</article>
+<div id="disqus_thread"></div>
+<script>
+    
+
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://hanivan-github-io-blog.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	</main>
+<aside>
+	<div>
+		<div>
+			<h3>LATEST POSTS</h3>
+		</div>
+		<div>
+			<ul>
+				
+				<li><a href="/blog/posts/membuat-file-sharing-dengan-apache2/">Apa itu WebDAV?</a></li>
+				
+				<li><a href="/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/">Cara Membuat File Sharing Server Dengan Apache di Linux Ubuntu (WebDAV)</a></li>
+				
+				<li><a href="/blog/posts/arch-linux/">Arch Linux</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</aside>
+
+
+	<footer>
+	<p>&copy; 2020-2021 <a href="https://hanivan.github.io/blog"><b>Nip&#39;s Journey</b></a>.
+	<a href="https://github.com/Hanivan"><b>Github</b></a>.
+	<a href="https://youtube.com/lintasanvideo"><b>Youtube</b></a>.
+	<a href="https://instagram.com/hanivanrizky"><b>Instagram</b></a>.
+	</p>
+</footer>
+
+</body>
+</html>
