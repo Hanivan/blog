@@ -1,5 +1,5 @@
 +++
-date = 2021-01-06T17:00:00Z
+date = 2021-01-09T17:00:00Z
 description = "Pada kesempatan kali ini saya akan mempraktekkannya di Linux Ubuntu dan menggunakan module WebDAV dari Apache2. Tapi sebelum itu, usahakan sedia yang namanya internet, kopi, gorengan. Biar kalau error bisa browsing cara solving error-nya sambil sruput kopi."
 summary = "Pada kesempatan kali ini saya akan mempraktekkannya di Linux Ubuntu dan menggunakan module WebDAV dari Apache2. Tapi sebelum itu, usahakan sedia yang namanya internet, kopi, gorengan. Biar kalau error bisa browsing cara solving error-nya sambil sruput kopi."
 tags = ["Linux", "IT", "Server"]
