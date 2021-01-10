@@ -6,7 +6,16 @@
     <description>Recent content in IT on Nip&#39;s Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 17:00:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 14:54:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Membuat File Sharing Server Dengan Apache di Linux Ubuntu (WebDAV)</title>
+      <link>https://hanivan.github.io/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/</link>
+      <pubDate>Sun, 10 Jan 2021 14:54:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/</guid>
+      <description>Pada kesempatan kali ini saya akan mempraktekkannya di Linux Ubuntu dan menggunakan module WebDAV dari Apache2. Tapi sebelum itu, usahakan sedia yang namanya internet, kopi, gorengan. Biar kalau error bisa browsing cara solving error-nya sambil sruput kopi.</description>
+    </item>
+    
     <item>
       <title>Apa itu WebDAV?</title>
       <link>https://hanivan.github.io/blog/posts/membuat-file-sharing-dengan-apache2/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://hanivan.github.io/blog/posts/membuat-file-sharing-dengan-apache2/</guid>
       <description>WebDAV (Web Distributed Authoring and Versioning) adalah perpanjangan dari Hypertext Transfer Protocol (HTTP) yang memungkinkan klien melakukan operasi pembuatan konten Web jarak jauh. WebDAV ditentukan di RFC 4918 oleh grup kerja dari Internet Engineering Task Force.</description>
-    </item>
-    
-    <item>
-      <title>Cara Membuat File Sharing Server Dengan Apache di Linux Ubuntu (WebDAV)</title>
-      <link>https://hanivan.github.io/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/</link>
-      <pubDate>Wed, 06 Jan 2021 17:00:00 +0000</pubDate>
-      
-      <guid>https://hanivan.github.io/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/</guid>
-      <description>Pada kesempatan kali ini saya akan mempraktekkannya di Linux Ubuntu dan menggunakan module WebDAV dari Apache2. Tapi sebelum itu, usahakan sedia yang namanya internet, kopi, gorengan. Biar kalau error bisa browsing cara solving error-nya sambil sruput kopi.</description>
     </item>
     
     <item>
