@@ -6,7 +6,7 @@ tags = ["CompTIA", "Cyber Security+", "IT"]
 title = "Cyber Security+ (SY0-501): Deskripsi Kursus dan Pre-Requisite"
 
 +++
-Deskripsi Kursus
+### Deskripsi Kursus
 
 Panduan Studi _Security+ Certification_ akan mengajari Anda prinsip-prinsip dasar dalam memasang dan mengonfigurasi kontrol keamanan siber dan berpartisipasi dalam respons insiden dan mitigasi risiko. Ini akan mempersiapkan Anda untuk mengikuti ujian CompTIA Security + SY0-501 dengan memberikan cakupan 100% dari tujuan dan contoh konten yang tercantum pada silabus.
 
@@ -21,7 +21,7 @@ Setelah membaca teks, Anda akan dapat:
 * Identifikasi strategi untuk memastikan kelangsungan bisnis, toleransi kesalahan, dan pemulihan bencana.
 * Meringkas kerentanan aplikasi dan pengkodean serta mengidentifikasi metode pengembangan dan penerapan yang dirancang untuk menguranginya.
 
-Prasyarat
+### Prasyarat
 
 Untuk mendapatkan hasil maksimal dari CompTIA Security + Study Guide dan dapat mempersiapkan ujian Anda, Anda seharusnya telah berhasil lulus ujian sertifikasi CompTIA Network + dan telah memperoleh pengalaman 24 bulan dalam dukungan jaringan dan administrasi TI. Kami juga merekomendasikan keterampilan dan pengetahuan berikut sebelum memulai kursus ini:
 
