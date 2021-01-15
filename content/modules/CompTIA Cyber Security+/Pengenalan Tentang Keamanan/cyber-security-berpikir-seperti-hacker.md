@@ -32,6 +32,6 @@ Blue hat adalah individu yang diminta untuk mencoba meretas ke dalam sistem oleh
 
 Hacker elite adalah hacker yang menemukan jenis kerentanan (vulnerabilities) baru. Hacker elite melakukan research mengenai jenis kerentanan baru pada suatu software atau program yang banyak digunakan, dan menghasilkan (Common Vulnerabilities and Exposures) CVE.
 
-Selanjutnya: Jenis dan Atribut Aktor Ancaman
+Selanjutnya: [Jenis dan Atribut Aktor Ancaman](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-jenis-dan-atribut-aktor-ancaman/ "Jenis dan Atribut Aktor Ancaman")
 
 Sebelumnya: [Dasar-dasar Kemanan Informasi](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-dasar-dasar-kemanan-informasi/ "Dasar-dasar Kemanan Informasi")
