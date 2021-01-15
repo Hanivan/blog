@@ -12,4 +12,4 @@ Sebelum masuk ke pembahasan, kita harus membangun suatu mindset bahwa tidak ada 
 
 Maka dari itu, kita dapat beralih ke beberapa dasar keamanan yang dapat membantu membangun fondasi yang kuat di mana mitigasi risiko keamanan yang tepat dapat dimulai.
 
-Berikutnya: CIA Keamanan Komputer
+Berikutnya: [CIA Keamanan Komputer](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-cia-keamanan-komputer/ "CIA Keamanan Komputer")
