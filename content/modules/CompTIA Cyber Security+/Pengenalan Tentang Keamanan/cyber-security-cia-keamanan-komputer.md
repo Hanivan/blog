@@ -46,6 +46,6 @@ Ketika suatu user diberi hak akses ke beberapa data atau beberapa area di sekita
 
 Melakukan pelacakan data, penggunaan komputer dan sumber daya jaringan. Sering kali disebut melakukan logging, auditing, dan monitoring data dan sumber daya. Accounting sangat penting karena mencakup bukti. Sebagai IT security kita harus memberikan bukti apabila terdapat seseorang yang mengakses informasi tanpa izin. Apabila kita memiliki bukti yang tentang sesuatu yang telah dilakukan user maka user tidak akan bisa menyangkalnya.
 
-Selanjutnya: Dasar-dasar Kemanan Informasi
+Selanjutnya: [Dasar-dasar Kemanan Informasi](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-dasar-dasar-kemanan-informasi/ "Dasar-dasar Kemanan Informasi")
 
 Sebelumnya: [Keamanan 101](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-keamanan-101/ "Keamanan 101")
