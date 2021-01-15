@@ -6,6 +6,8 @@ tags = ["CompTIA", "Cyber Security+", "IT"]
 title = "Cyber Security+ (SY0-501): Deskripsi Kursus dan Pre-Requisite"
 
 +++
+![CompTIA CySec+](https://course.adinusa.id/media/images/logo-sec-plus.png)
+
 ### Deskripsi Kursus
 
 Panduan Studi _Security+ Certification_ akan mengajari Anda prinsip-prinsip dasar dalam memasang dan mengonfigurasi kontrol keamanan siber dan berpartisipasi dalam respons insiden dan mitigasi risiko. Ini akan mempersiapkan Anda untuk mengikuti ujian CompTIA Security + SY0-501 dengan memberikan cakupan 100% dari tujuan dan contoh konten yang tercantum pada silabus.
