@@ -48,4 +48,4 @@ Melakukan pelacakan data, penggunaan komputer dan sumber daya jaringan. Sering k
 
 Selanjutnya: Dasar-dasar Kemanan Informasi
 
-Sebelumnya: Keamanan 101
+Sebelumnya: [Keamanan 101](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-keamanan-101/ "Keamanan 101")
