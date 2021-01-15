@@ -60,3 +60,7 @@ Enkripsi digunakan untuk menyembunyikan informasi menggunakan algoritma (cipher)
 * **Data Removal**
 
 Penghapusan data yang sebenarnya harus lebih dari sekedar menghapus file atau memformat media penyimpanan. Masalah yang terdapat pada saat menghapus file adalah terdapat sisa atau jejak data sehingga data di media tersebut masih dapat dikembalikan lagi dengan tools tertentu. Karena dari itu penghancuran pada media penyimpanan perlu dilakukan untuk mencegah kebocoran data.
+
+Selanjutnya: Berpikir seperti Hacker
+
+Sebelumnya: [CIA Keamanan Komputer](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-cia-keamanan-komputer/ "CIA Keamanan Komputer")
