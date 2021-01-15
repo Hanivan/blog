@@ -39,11 +39,17 @@ paginate = 25
         url = ""
         weight = 1
 
+[[menu.main]]
+        identifier = "modules"
+        name = "Modules"
+        url = "modules"
+        weight = 2
+
   [[menu.main]]
         identifier = "tags"
         name = "Tags"
         url = "tags"
-        weight = 2
+        weight = 3
 
 # Footer
   [[menu.footer]]
@@ -60,3 +66,8 @@ paginate = 25
         name = "Instagram"
         url = "https://instagram.com/hanivanrizky"
         weight = 3
+
+[[menu.footer]]
+        name = "Donasi^o^"
+        url = "https://saweria.co/hanivanrizky"
+        weight = 4
