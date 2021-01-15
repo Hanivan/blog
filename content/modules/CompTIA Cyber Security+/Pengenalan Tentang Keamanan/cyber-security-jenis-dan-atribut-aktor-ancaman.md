@@ -26,4 +26,4 @@ Suatu perusahaan atau organisasi harus waspada kepada insider (orang-orang yang 
 
 Selanjutnya: Keamanan Sistem Komputer Bagian I
 
-Sebelumnya: Berpikir seperti Hacker
+Sebelumnya: [Berpikir seperti Hacker](https://hanivan.github.io/blog/modules/comptia-cyber-security+/pengenalan-tentang-keamanan/cyber-security-berpikir-seperti-hacker/ "Berpikir seperti Hacker")
