@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hanivan.github.io/blog/tags/comptia/</loc>
+    <lastmod>2021-01-15T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hanivan.github.io/blog/tags/cyber-security&#43;/</loc>
+    <lastmod>2021-01-15T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hanivan.github.io/blog/tags/it/</loc>
+    <lastmod>2021-01-15T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hanivan.github.io/blog/modules/</loc>
+    <lastmod>2021-01-15T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hanivan.github.io/blog/</loc>
+    <lastmod>2021-01-15T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/percobaan-posting-artikel-cybersec/</loc>
+    <lastmod>2021-01-15T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hanivan.github.io/blog/tags/</loc>
+    <lastmod>2021-01-15T01:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hanivan.github.io/blog/posts/cara-membuat-file-sharing-server-dengan-apache-di-linux/</loc>
     <lastmod>2021-01-10T14:54:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanivan.github.io/blog/tags/it/</loc>
-    <lastmod>2021-01-10T14:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hanivan.github.io/blog/tags/linux/</loc>
-    <lastmod>2021-01-10T14:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hanivan.github.io/blog/</loc>
     <lastmod>2021-01-10T14:54:00+00:00</lastmod>
   </url>
   
@@ -33,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://hanivan.github.io/blog/tags/</loc>
-    <lastmod>2021-01-10T14:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hanivan.github.io/blog/posts/membuat-file-sharing-dengan-apache2/</loc>
     <lastmod>2021-01-06T17:00:00+00:00</lastmod>
   </url>
@@ -45,10 +65,6 @@
   <url>
     <loc>https://hanivan.github.io/blog/posts/arch-linux/</loc>
     <lastmod>2021-01-05T09:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hanivan.github.io/blog/modules/</loc>
   </url>
   
 </urlset>
