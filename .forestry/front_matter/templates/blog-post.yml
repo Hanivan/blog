@@ -33,6 +33,7 @@ fields:
   label: Deskripsi
   description: Ditampilkan untuk tag &lt;meta&gt; dan SEO
 pages:
+- content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-pencegahan-dan-penanggulangan-spyware.md
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-pencegahan-dan-penanggulangan-virus.md
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-pencegahan-dan-penanggulangan-worm-dan-trojan.md
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-pengiriman-malware.md
