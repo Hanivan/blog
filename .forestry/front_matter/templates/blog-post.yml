@@ -34,6 +34,7 @@ fields:
   description: Ditampilkan untuk tag &lt;meta&gt; dan SEO
 pages:
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-pencegahan-dan-penanggulangan-virus.md
+- content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-pencegahan-dan-penanggulangan-worm-dan-trojan.md
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-pengiriman-malware.md
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-rangkuman-ancaman-malware.md
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-tipe-perangkat-lunak-berbahaya.md
