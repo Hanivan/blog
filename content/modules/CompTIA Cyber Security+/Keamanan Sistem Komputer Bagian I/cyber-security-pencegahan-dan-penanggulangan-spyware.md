@@ -32,6 +32,6 @@ Selanjutnya, pindai komputer dengan perangkat lunak anti-spyware pilihan Anda da
 
 Terakhir, Anda perlu memastikan bahwa malware tidak akan muncul kembali di sistem Anda. Untuk melakukan ini, periksa pengaturan beranda di browser Anda, verifikasi bahwa file HOSTS Anda belum dibajak (terletak di C: \\ WINDOWS \\ system32 \\ drivers \\ dll), dan pastikan bahwa situs web yang tidak diinginkan belum ditambahkan ke Situs Tepercaya dalam peramban.
 
-Selanjutnya: Pencegahan dan Penanggulangan Rootkit
+Selanjutnya: [Pencegahan dan Penanggulangan Rootkit](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-rootkit/ "Pencegahan dan Penanggulangan Rootkit")
 
-Sebelumnya: Pencegahan dan Penanggulangan Worm dan Trojan
+Sebelumnya: [Pencegahan dan Penanggulangan Worm dan Trojan](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-worm-dan-trojan/ "Pencegahan dan Penanggulangan Worm dan Trojan")
