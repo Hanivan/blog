@@ -12,6 +12,6 @@ Pencegahan adalah masalah pemeliharaan, dan interaksi pengguna yang cermat denga
 
 Pemecahan masalah jenis malware ini pada dasarnya dilakukan dengan cara yang sama dengan virus. Malware harus dikarantina dan / atau dihapus jika memungkinkan dengan perangkat lunak AV atau dengan teknik canggih yang disebutkan di bagian sebelumnya. Teknik pencegahan dan pemecahan masalah yang sama berlaku untuk ransomware karena sering dikirim dalam bentuk Trojan.
 
-Selanjutnya: Pencegahan dan Penanggulangan Spyware
+Selanjutnya: [Pencegahan dan Penanggulangan Spyware](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spyware/ "Pencegahan dan Penanggulangan Spyware")
 
-Sebelumnya: Pencegahan dan Penanggulangan Virus
+Sebelumnya: [Pencegahan dan Penanggulangan Virus](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-virus/ "Pencegahan dan Penanggulangan Virus")
