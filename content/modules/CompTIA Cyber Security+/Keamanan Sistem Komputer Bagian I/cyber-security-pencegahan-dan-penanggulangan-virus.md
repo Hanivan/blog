@@ -65,6 +65,6 @@ Kemungkinan lain adalah dengan menggunakan alat berbasis Linux yang dapat diundu
 
 Perlu diingat bahwa lingkungan pemulihan dan metode baris perintah lainnya mungkin tidak memperbaiki masalah; mereka mungkin membuat hard drive tidak dapat beroperasi tergantung pada jenis virus. Jadi, yang terbaik adalah terlebih dahulu menggunakan berbagai utilitas perangkat lunak AV yang telah Anda beli untuk sistem.
 
-Selanjutnya: Pencegahan dan Penanggulangan Worm dan Trojan
+Selanjutnya: [Pencegahan dan Penanggulangan Worm dan Trojan](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-worm-dan-trojan/ "Pencegahan dan Penanggulangan Worm dan Trojan")
 
-Sebelumnya: Pengiriman Malware
+Sebelumnya: [Pengiriman Malware](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pengiriman-malware/ "Pengiriman Malware")
