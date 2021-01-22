@@ -72,6 +72,6 @@ Bentuk spam yang paling umum adalah spam e-mail, yang merupakan salah satu spam 
 
 Turunan dari spam, yang disebut spim (spam di atas pesan instan), adalah penyalahgunaan sistem pesan instan, ruang obrolan, dan fungsi obrolan dalam game secara khusus. Ia juga dikenal sebagai spam pesan, atau spam IM.
 
-Selanjutnya: Rangkuman Ancaman Malware
+Selanjutnya: [Rangkuman Ancaman Malware](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-rangkuman-ancaman-malware/ "Rangkuman Ancaman Malware")
 
-Sebelumnya: Pendahuluan
+Sebelumnya: [Pendahuluan](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/pendahuluan/ "Pendahuluan")
