@@ -22,4 +22,4 @@ Aplikasi yang dapat membantu untuk mengamankan komputer anda dari ancaman malwar
 
 Demi melawan berbagai ancaman keamanan yang dapat terjadi pada sistem komputer, pertama-tama kita perlu mengklasifikasikannya. Maka kita perlu mendefinisikan bagaimana ancaman ini bisa dikirimkan ke komputer target. Setelah itu kita bisa mendiskusikan bagaimana caranya untuk mencegah ancaman tersebut terjadi dan memecahkannya jika memang terjadi. Mari kita mulai dari ancaman komputer yang paling umum dan mungkin yang paling berbahaya.
 
-Selanjutnya: Tipe Perangkat Lunak Berbahaya
+Selanjutnya: [Tipe Perangkat Lunak Berbahaya](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-tipe-perangkat-lunak-berbahaya/ "Tipe Perangkat Lunak Berbahaya")
