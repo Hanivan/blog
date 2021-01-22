@@ -33,6 +33,7 @@ fields:
   label: Deskripsi
   description: Ditampilkan untuk tag &lt;meta&gt; dan SEO
 pages:
+- content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/cyber-security-tipe-perangkat-lunak-berbahaya.md
 - content/modules/CompTIA Cyber Security+/Keamanan Sistem Komputer Bagian I/pendahuluan.md
 - content/modules/CompTIA Cyber Security+/Pengenalan Tentang Keamanan/cyber-security-berpikir-seperti-hacker.md
 - content/modules/CompTIA Cyber Security+/Pengenalan Tentang Keamanan/cyber-security-cia-keamanan-komputer.md
