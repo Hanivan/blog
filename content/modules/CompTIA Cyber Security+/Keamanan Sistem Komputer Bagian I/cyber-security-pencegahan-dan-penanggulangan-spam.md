@@ -1,0 +1,26 @@
++++
+date = 2021-01-22T14:27:00Z
+description = "Cyber Security+: Pencegahan dan Penanggulangan Spam"
+summary = ""
+tags = ["CompTIA", "Cyber Security+", "IT"]
+title = "Cyber Security+: Pencegahan dan Penanggulangan Spam"
+
++++
+  
+ Internet perlu dilestarikan, sama seperti lingkungan kita. Mungkin terdengar gila, tapi itu benar. Hanya ada begitu banyak ruang untuk menyimpan informasi, dan hanya begitu banyak bandwidth yang dapat digunakan untuk mentransfer data. Diperkirakan bahwa spam menyebabkan miliaran dolar dalam penipuan, kerusakan, kehilangan produktivitas, dan sebagainya setiap tahun; selain botnet dan jaringan P2P, ini adalah salah satu sumber daya Internet terbesar. Bagian terburuknya adalah sebagian besar spammer tidak menanggung beban biaya yang dikeluarkan; orang lain biasanya melakukannya. Jadi kuncinya adalah memblokir sebanyak mungkin spam, melaporkan mereka yang melakukannya, dan mengajarkan pengguna Anda.
+
+Berikut adalah beberapa cara untuk menerapkan kontrol keamanan anti-spam dan, semoga, mengurangi spam:
+
+* **Gunakan firewall / filter spam**: Ini dapat dibeli sebagai perangkat lunak untuk server atau sebagai perangkat berbasis perangkat keras. Peralatan ini memantau aktivitas spam dan membuat serta memperbarui daftar putih dan daftar hitam, yang semuanya dapat diunduh ke perangkat secara otomatis. Administrator jaringan juga harus memblokir semua email yang menyertakan lampiran yang tidak mematuhi aturan perusahaan. Misalnya, beberapa perusahaan hanya mengaktifkan .zip, .txt, .doc, dan .docx melalui filter lampiran e-mail mereka (atau .zips saja).
+
+  Jika perusahaan Anda menggunakan perusahaan hosting web untuk situs webnya dan untuk surel, perusahaan itu kemungkinan memiliki banyak opsi penyaringan spam. Dan di sisi klien, Anda dapat mengkonfigurasi Outlook dan program surat lainnya ke tingkat keamanan yang lebih tinggi terhadap spam; ini biasanya di area Opsi Email Sampah. Filter spam juga dapat dipasang pada masing-masing klien. Banyak suite antivirus populer memiliki penyaringan spam bawaan. Pastikan itu diaktifkan! Seperti contohnya, akun email pribadi saya (yang saya coba rahasiakan) memiliki filter di perusahaan hosting web, ditambah paket perangkat lunak anti-malware saya memfilter email, dan Outlook diatur ke High in the Junk Halaman Opsi Email, dan tentu saja, saya masih mendapatkan setidaknya beberapa spam ke kotak masuk saya setiap hari!
+
+  ![](https://course.adinusa.id/media/markdownx/ba34a047-8348-4968-a4b5-8ccd85b2372e.jpg)
+* **Tutup relay surat terbuka:** Server SMTP dapat dikonfigurasikan sebagai relay surat terbuka, yang memungkinkan siapa pun di Internet untuk mengirim email melalui server SMTP. Meskipun ini diinginkan untuk pelanggan perusahaan yang menjalankan server SMTP, ini tidak diinginkan bagi perusahaan untuk memiliki relay surat yang sepenuhnya terbuka. Jadi, open mail relay harus ditutup atau dikonfigurasikan sedemikian rupa sehingga hanya pelanggan dan pengguna terotentikasi yang benar yang dapat menggunakannya. Open mail relay juga dikenal sebagai open relay SMTP.
+* **Hapus tautan alamat email dari situs web perusahaan:** Ganti ini dengan formulir online (misalnya, formulir PHP aman) yang memungkinkan seseorang untuk menghubungi perusahaan tetapi tidak melihat alamat email perusahaan. Gunakan alamat email iklan terpisah untuk literatur atau iklan apa pun. Pertimbangkan untuk sering mengubah ini; orang pemasaran mungkin sudah melakukan ini sebagai bentuk pelacakan lead. Membawa ke tingkat berikutnya, pertimbangkan layanan email.
+* **Gunakan daftar putih dan daftar hitam:** Daftar putih adalah daftar aman dari alamat email atau seluruh domain email yang terpercaya, sedangkan daftar hitam adalah daftar alamat email atau domain email yang tidak dipercaya. Daftar ini dapat diatur di server email, peralatan email, dan dalam program klien email seperti Outlook.
+* **Latih Pengguna Anda:** Mintalah mereka membuat dan menggunakan alamat email gratis setiap kali mereka memposting ke forum, portal dukungan teknis, dan newsgroup, dan menginstruksikan mereka untuk tidak menggunakan email perusahaan mereka untuk apa pun kecuali tujuan yang berkaitan dengan perusahaan. Pastikan mereka menyaring email mereka dengan hati-hati; ini juga dikenal sebagai pemeriksaan email. E-mail dengan lampiran harus dianggap tidak stabil kecuali jika pengguna tahu persis dari mana asalnya. Latih karyawan Anda untuk tidak melakukan pembelian dari email yang tidak diminta. Juga, jelaskan alasan di balik penggunaan blind carbon copy (BCC) saat mengirim email ke banyak pengguna. Jangan bertele-tele; kita semua tahu bahwa ini adalah hal yang paling sulit untuk ditanyakan pada perusahaan dan karyawannya yang memiliki hal-hal yang lebih penting untuk dilakukan. Namun, beberapa perusahaan memberlakukan ini sebagai kebijakan dan memonitor kebiasaan email pengguna. Beberapa perusahaan memiliki kebijakan di mana pengguna harus membuat daftar "aman". Ini berarti bahwa hanya alamat dalam daftar yang dapat mengirim email ke pengguna dan menampilkannya di kotak masuk.
+
+Selanjutnya: Rangkuman
+
+Sebelumnya: Pencegahan dan Penanggulangan Rootkit
