@@ -6,7 +6,61 @@
     <description>Recent content in Modules on Nip&#39;s Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 13:50:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/modules/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 14:27:00 +0000</lastBuildDate><atom:link href="https://hanivan.github.io/blog/modules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Security&#43;: Pencegahan dan Penanggulangan Spam</title>
+      <link>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spam/</link>
+      <pubDate>Fri, 22 Jan 2021 14:27:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spam/</guid>
+      <description>Internet perlu dilestarikan, sama seperti lingkungan kita. Mungkin terdengar gila, tapi itu benar. Hanya ada begitu banyak ruang untuk menyimpan informasi, dan hanya begitu banyak bandwidth yang dapat digunakan untuk mentransfer data.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security&#43;: Pencegahan dan Penanggulangan Rootkit</title>
+      <link>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-rootkit/</link>
+      <pubDate>Fri, 22 Jan 2021 14:25:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-rootkit/</guid>
+      <description>Rootkit yang berhasil diinstal memungkinkan pengguna yang tidak sah untuk mendapatkan akses ke sistem dan bertindak sebagai pengguna root atau administrator. Rootkit disalin ke komputer sebagai file binary; file biner ini dapat dideteksi oleh program antivirus berbasis tanda tangan dan heuristik.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security&#43;: Pencegahan dan Penanggulangan Spyware</title>
+      <link>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spyware/</link>
+      <pubDate>Fri, 22 Jan 2021 14:23:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spyware/</guid>
+      <description>Pencegahan Spyware bekerja dengan cara yang sama seperti mencegah virus ketika memperbarui sistem operasi dan menggunakan firewall. Juga, karena spyware secara umum sama dengan virus, perusahaan antivirus dan produsen OS menambahkan komponen anti-spyware ke perangkat lunak mereka.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security&#43;: Pencegahan dan Penanggulangan Worm dan Trojan</title>
+      <link>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-worm-dan-trojan/</link>
+      <pubDate>Fri, 22 Jan 2021 14:20:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-worm-dan-trojan/</guid>
+      <description>Worm dan Trojans dapat dicegah dan diatasi dengan cara yang sama seperti virus. Ada pemindai daring gratis untuk Trojans, tetapi dalam kebanyakan kasus, pemindaian perangkat lunak AV standar untuk worm dan Trojan selain dari virus (dan mungkin juga malware lainnya).</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security&#43;: Pencegahan dan Penanggulangan Virus</title>
+      <link>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-virus/</link>
+      <pubDate>Fri, 22 Jan 2021 14:16:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-virus/</guid>
+      <description>Kita dapat melakukan beberapa hal untuk melindungi sistem komputer dari virus. Pertama, setiap komputer harus memiliki platform perlindungan titik akhir yang kuat — artinya perangkat lunak antivirus harus berjalan di atasnya.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security&#43;: Pengiriman Malware</title>
+      <link>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pengiriman-malware/</link>
+      <pubDate>Fri, 22 Jan 2021 14:14:00 +0000</pubDate>
+      
+      <guid>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-pengiriman-malware/</guid>
+      <description>Malware bukan makhluk hidup (&amp;hellip; belum) dan tidak bisa muncul begitu saja; itu perlu dibawa dan dikirim ke komputer atau diinstal pada sistem komputer dalam beberapa cara.</description>
+    </item>
+    
     <item>
       <title>Cyber Security&#43;: Rangkuman Ancaman Malware</title>
       <link>https://hanivan.github.io/blog/modules/comptia-cyber-security&#43;/keamanan-sistem-komputer-bagian-i/cyber-security-rangkuman-ancaman-malware/</link>
