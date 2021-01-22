@@ -32,4 +32,4 @@ Apa pun alasannya, pastikan untuk mengetahui tanda-tanda peringatan untuk berbag
 
 Namun, pencegahan adalah kunci lingkungan bisnis yang produktif. Memahami teknik pencegahan untuk virus, worm, Trojan, spyware, dan ransomware. Tinjau metode-metode itu secara berkala untuk memastikan bahwa Anda menerapkan strategi terbaik dan paling mutakhir. Saya sering mengatakannya: "Satu ons pencegahan bernilai satu pon penyembuhan" untuk mengutip Benjamin Franklin. Ini adalah satu contoh di mana hanya sedikit waktu yang dihabiskan untuk mengamankan sistem dan mendidik pengguna dapat menghemat waktu organisasi — mungkin berhari-hari — dan mungkin banyak uang dalam proses itu.
 
-Sebelumnya: Pencegahan dan Penanggulangan Spam
+Sebelumnya: [Pencegahan dan Penanggulangan Spam](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spam/ "Pencegahan dan Penanggulangan Spam")
