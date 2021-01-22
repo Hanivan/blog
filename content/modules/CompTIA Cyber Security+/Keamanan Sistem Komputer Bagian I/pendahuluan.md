@@ -1,9 +1,9 @@
 +++
 date = 2021-01-22T13:38:00Z
-description = "Cyber Security+: Pendahuluan(Keamanan Sistem Komputer Bagian I)"
+description = "Cyber Security+: Pendahuluan Keamanan Sistem Komputer Bagian I"
 summary = ""
 tags = ["CompTIA", "Cyber Security+", "IT"]
-title = "Cyber Security+: Pendahuluan(Keamanan Sistem Komputer Bagian I)"
+title = "Cyber Security+: Pendahuluan Keamanan Sistem Komputer Bagian I"
 
 +++
 ### Visi & Misi
