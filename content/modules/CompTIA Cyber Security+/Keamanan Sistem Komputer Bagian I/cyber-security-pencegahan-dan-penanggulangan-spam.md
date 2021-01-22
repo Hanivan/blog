@@ -6,8 +6,7 @@ tags = ["CompTIA", "Cyber Security+", "IT"]
 title = "Cyber Security+: Pencegahan dan Penanggulangan Spam"
 
 +++
-  
- Internet perlu dilestarikan, sama seperti lingkungan kita. Mungkin terdengar gila, tapi itu benar. Hanya ada begitu banyak ruang untuk menyimpan informasi, dan hanya begitu banyak bandwidth yang dapat digunakan untuk mentransfer data. Diperkirakan bahwa spam menyebabkan miliaran dolar dalam penipuan, kerusakan, kehilangan produktivitas, dan sebagainya setiap tahun; selain botnet dan jaringan P2P, ini adalah salah satu sumber daya Internet terbesar. Bagian terburuknya adalah sebagian besar spammer tidak menanggung beban biaya yang dikeluarkan; orang lain biasanya melakukannya. Jadi kuncinya adalah memblokir sebanyak mungkin spam, melaporkan mereka yang melakukannya, dan mengajarkan pengguna Anda.
+Internet perlu dilestarikan, sama seperti lingkungan kita. Mungkin terdengar gila, tapi itu benar. Hanya ada begitu banyak ruang untuk menyimpan informasi, dan hanya begitu banyak bandwidth yang dapat digunakan untuk mentransfer data. Diperkirakan bahwa spam menyebabkan miliaran dolar dalam penipuan, kerusakan, kehilangan produktivitas, dan sebagainya setiap tahun; selain botnet dan jaringan P2P, ini adalah salah satu sumber daya Internet terbesar. Bagian terburuknya adalah sebagian besar spammer tidak menanggung beban biaya yang dikeluarkan; orang lain biasanya melakukannya. Jadi kuncinya adalah memblokir sebanyak mungkin spam, melaporkan mereka yang melakukannya, dan mengajarkan pengguna Anda.
 
 Berikut adalah beberapa cara untuk menerapkan kontrol keamanan anti-spam dan, semoga, mengurangi spam:
 
@@ -23,4 +22,4 @@ Berikut adalah beberapa cara untuk menerapkan kontrol keamanan anti-spam dan, se
 
 Selanjutnya: Rangkuman
 
-Sebelumnya: Pencegahan dan Penanggulangan Rootkit
+Sebelumnya: [Pencegahan dan Penanggulangan Rootkit](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-rootkit/ "Pencegahan dan Penanggulangan Rootkit")
