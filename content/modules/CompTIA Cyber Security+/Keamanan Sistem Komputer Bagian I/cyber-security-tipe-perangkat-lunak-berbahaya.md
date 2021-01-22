@@ -1,7 +1,6 @@
 +++
 date = 2021-01-22T13:47:00Z
 description = "Cyber Security+: Tipe Perangkat Lunak Berbahaya"
-draft = true
 summary = ""
 tags = ["CompTIA", "Cyber Security+", "IT"]
 title = "Cyber Security+: Tipe Perangkat Lunak Berbahaya"
