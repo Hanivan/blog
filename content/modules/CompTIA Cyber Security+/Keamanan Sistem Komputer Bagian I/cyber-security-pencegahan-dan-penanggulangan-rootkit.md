@@ -14,6 +14,6 @@ Terkadang, rootkit akan bersembunyi di MBR. Seringkali, produsen sistem operasi 
 
 Sayangnya, karena kesulitan dalam menghapus rootkit, cara terbaik untuk memerangi rootkit adalah menginstal ulang semua perangkat lunak. Secara umum, teknisi PC, setelah mendeteksi rootkit, akan melakukan hal itu, karena biasanya membutuhkan waktu lebih sedikit daripada upaya untuk memperbaiki semua masalah rootkit, ditambah lagi dapat memverifikasi bahwa rootkit telah dihapus sepenuhnya.
 
-Selanjutnya: Pencegahan dan Penanggulangan Spam
+Selanjutnya: [Pencegahan dan Penanggulangan Spam](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spam/ "Pencegahan dan Penanggulangan Spam")
 
-Sebelumnya: Pencegahan dan Penanggulangan Spyware
+Sebelumnya: [Pencegahan dan Penanggulangan Spyware](https://hanivan.github.io/blog/modules/comptia-cyber-security+/keamanan-sistem-komputer-bagian-i/cyber-security-pencegahan-dan-penanggulangan-spyware/ "Pencegahan dan Penanggulangan Spyware")
